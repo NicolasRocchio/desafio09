@@ -2,6 +2,6 @@
 
 Nicolas Rocchio
 
-## link github:
+## link github: https://github.com/NicolasRocchio/desafio09
 
-## link netlify:
+## link netlify: educacionit-ejercicio09.netlify.app
